@@ -14,4 +14,5 @@ Run test_senti_mod.py
 Note
 ---
 tarined model is here:
+
 (just uncomment loading of pickle part and comment the model)

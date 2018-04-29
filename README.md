@@ -13,6 +13,6 @@ Run test_senti_mod.py
 
 Note
 ---
-tarined model is here:
+tarined model is here:http://bit.ly/MovieReviewTM
 
 (just uncomment loading of pickle part and comment the model)
